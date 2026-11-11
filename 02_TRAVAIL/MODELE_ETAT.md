@@ -1,0 +1,11 @@
+# État de relais
+- Identifiant / branche / mission :
+- Dernière mise à jour (date, heure, fuseau) :
+- Échéance :
+- Fait vérifié et fichiers produits :
+- Sources effectivement consultées (chemins / versions) :
+- Décisions et hypothèses :
+- Blocages, erreurs, droits ou accès manquants :
+- Prochaine action exacte et commande si connue :
+- État Git et dernier commit / push vérifié :
+- Ce qui n'a PAS été contrôlé :

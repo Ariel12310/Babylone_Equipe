@@ -1,0 +1,14 @@
+# Défense en profondeur : ne jamais ajouter les médias lourds, secrets et caches par défaut.
+*.mp3
+*.wav
+*.mp4
+*.mov
+*.zip
+*.env
+.env*
+*.key
+*.pem
+*token*
+*credential*
+__pycache__/
+.cache/
